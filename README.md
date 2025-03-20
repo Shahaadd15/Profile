@@ -2,8 +2,12 @@
 <h3 align="center">A passionate Data Analyst/ Economist from Bahrain</h3>
 
 - 🌱 I’m currently learning **Tableau**
-
-
+- I am passionate about **Volleyball** 🏐 and **Painting** 🖌️
+  
+**Soft Skills:**
+- Teamwork 🧑‍🤝‍🧑
+- Time Management ⏲️
+- Creative Thinking ✨
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
