@@ -19,6 +19,17 @@
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> 
   </a> 
 </p>
+<p align="left"> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/> 
+  </a> 
+</p>
+<p align="left"> 
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/> 
+  </a> 
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahaadd15&show_icons=true&locale=en&layout=compact" alt="shahaadd15" /></p>
  
