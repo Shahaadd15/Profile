@@ -2,7 +2,7 @@
 <h3 align="center">🧠 Turning raw data into real stories with Power BI & Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7BB18&center=true&vCenter=true&width=500&lines=Power+BI+Dashboard+Developer;Python+for+Data+Cleaning+%26+Automation;Data+Storyteller+%7C+Insight+Seeker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7BB18&center=true&vCenter=true&width=500&lines=Economist+with+a+passion+for+data;Power+BI+Dashboard+Developer;Python+for+Data+Cleaning+%26+Automation;Data+Storyteller+%7C+Insight+Seeker" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahaadd15&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaadd15&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahaadd15&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaadd15&layout=compact&theme=gruvbox&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
